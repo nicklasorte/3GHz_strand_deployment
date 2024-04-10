@@ -8,7 +8,7 @@ Run: https://github.com/nicklasorte/itm_matlab_example
 
 Then download the files from this repository.
 
-Run the matlab file: [init-folder]
+Run the matlab file: https://github.com/nicklasorte/3GHz_strand_deployment/blob/main/init_github_strand_3GHz_rev1.m
 
 
 You'll need to also download:
